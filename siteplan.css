@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins:wght@400;700&display=swap');
 
 body {
@@ -101,9 +101,8 @@ footer {
     padding: 1rem;
     background-color: #264653;
     color: white;
-=======
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins:wght@400;700&display=swap');
-
+ }
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -204,5 +203,5 @@ footer {
     padding: 1rem;
     background-color: #264653;
     color: white;
->>>>>>> d09cbdca802c00f93f160c4c255d4ac2a7baeb80
+
 }
